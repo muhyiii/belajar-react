@@ -8,7 +8,7 @@ function App() {
     <React.Fragment>
       <div className="antialiased relative text-gray-600">
         {/* =================================== */}
-        <div className="absolute w-full bg-red-500 min-h-screen">
+        <div className="absolute w-full  min-h-screen">
           <div
             className="absolute top-0 w-full h-1/2 bg-cover bg-bottom"
             style={{ backgroundImage: `url(${backgroundImage})` }}
